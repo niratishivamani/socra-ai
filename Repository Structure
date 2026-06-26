@@ -1,0 +1,13 @@
+socra-ai/
+│
+├── backend/
+├── frontend/
+├── docs/
+├── screenshots/
+├── architecture/
+├── reports/
+├── tests/
+├── README.md
+├── LICENSE
+├── .gitignore
+└── MVP.md
