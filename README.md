@@ -4,7 +4,8 @@
 
 ## Overview
 
-Socra AI is a cybersecurity project that aims to help SOC analysts investigate security alerts using AI. The platform will integrate with SIEM, analyze security logs, map MITRE ATT&CK techniques, enrich IOCs, and generate incident reports.
+Socra AI is an AI-powered cybersecurity platform designed to improve Security Operations Center (SOC) workflows through intelligent analysis and automation.
+
 
 ## Features
 
